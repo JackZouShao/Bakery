@@ -1,2 +1,0 @@
-# Bakery
-For Learning AWS 
